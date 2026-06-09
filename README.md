@@ -8,6 +8,8 @@ AI Engineering, Universidad Panamericana
 This repository contains the code for a four-class Alzheimer's disease
 staging task from brain MRI, comparing three deep learning architectures.
 
+Dataset: https://www.kaggle.com/datasets/preetpalsingh25/alzheimers-dataset-4-class-of-images/data?select=Alzheimer_s+Dataset
+
 ----------------------------------------------------------------
 FILES
 ----------------------------------------------------------------
