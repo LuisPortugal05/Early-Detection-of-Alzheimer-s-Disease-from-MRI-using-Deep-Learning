@@ -1,4 +1,3 @@
-================================================================
 Early Detection of Alzheimer's Disease from MRI
 A Comparative Study of a Baseline CNN, ResNet-50, and a Vision Transformer
 ================================================================
