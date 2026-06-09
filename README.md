@@ -43,11 +43,13 @@ FILES
     critical "VeryMild" class. Test accuracy: 96.99%.
  
 05_Testing_and_Results.ipynb
- 
+
     Final evaluation of all three trained models on the held-out test set
     (built in 01 and never seen during training or validation). Produces
     accuracy, precision, recall, F1-score, confusion matrices, and the
-    comparison plots used in the paper.
+    comparison plots used in the paper. Also generates qualitative
+    interpretability visualisations (Grad-CAM for the CNN and ResNet-50,
+    attention rollout for the ViT) on Very Mild Demented test slices.
 ----------------------------------------------------------------
 NOTES
 ----------------------------------------------------------------
